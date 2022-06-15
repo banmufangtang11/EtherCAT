@@ -1,6 +1,5 @@
 # README
-
-EtherCAT通信由主站发送EtherCAT数据帧读写从站设备的内部存储区来实现，从站不会主动发送数据；
+本项目为EtherCAT的学习资料！！！
 
 ## 参考资料
 
@@ -14,20 +13,21 @@ EtherCAT通信由主站发送EtherCAT数据帧读写从站设备的内部存储�
 * 书籍：《工业以太网现场总线EtherCAT驱动程序设计及应用》
 * [Ethercat解析](https://blog.csdn.net/absinjun/article/month/2018/08)
 
+
+
 ## 笔记文档
 
-* [0014_EtherCAT_Host.md](./docs/0014_EtherCAT_Host.md)
-* [0013_EtherCAT_Process_Data_RAM.md](./docs/0013_EtherCAT_Process_Data_RAM.md)
-* [0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md](./docs/0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md)
-* [0011_LAN9252_Register_Read_Write.md](./docs/0011_LAN9252_Register_Read_Write.md)
-* [0010_LED_Project_Base_Hacking.md](./docs/0010_LED_Project_Base_Hacking.md)
-* [0009_CoE_Object_Dictionary.md](./docs/0009_CoE_Object_Dictionary.md)
-* [0008_EEPROM_Layout.md](./docs/0008_EEPROM_Layout.md)
-* [0007_Application_Layer.md](./docs/0007_Application_Layer.md)
-* [0006_Distributed_Clocks.md](./docs/0006_Distributed_Clocks.md)
-* [0005_Field_Memory_Management_Unit(FMMU).md](./docs/0005_Field_Memory_Management_Unit(FMMU).md)
-* [0004_EtherCAT_Slave_Editor.md](./docs/0004_EtherCAT_Slave_Editor.md)
-* [0003_STM32F407_EtherCAT_Project_Base.md](./docs/0003_STM32F407_EtherCAT_Project_Base.md)
-* [0002_EtherCAT_Base.md](./docs/0002_EtherCAT_Base.md)
 * [0001_Ethernet_Theory_of_Operation.md](./docs/0001_Ethernet_Theory_of_Operation.md)
-
+* [0002_EtherCAT_Base.md](./docs/0002_EtherCAT_Base.md)
+* [0003_STM32F407_EtherCAT_Project_Base.md](./docs/0003_STM32F407_EtherCAT_Project_Base.md)
+* [0004_EtherCAT_Slave_Editor.md](./docs/0004_EtherCAT_Slave_Editor.md)
+* [0005_Field_Memory_Management_Unit(FMMU).md](./docs/0005_Field_Memory_Management_Unit(FMMU).md)
+* [0006_Distributed_Clocks.md](./docs/0006_Distributed_Clocks.md)
+* [0007_Application_Layer.md](./docs/0007_Application_Layer.md)
+* [0008_EEPROM_Layout.md](./docs/0008_EEPROM_Layout.md)
+* [0009_CoE_Object_Dictionary.md](./docs/0009_CoE_Object_Dictionary.md)
+* [0010_LED_Project_Base_Hacking.md](./docs/0010_LED_Project_Base_Hacking.md)
+* [0011_LAN9252_Register_Read_Write.md](./docs/0011_LAN9252_Register_Read_Write.md)
+* [0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md](./docs/0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md)
+* [0013_EtherCAT_Process_Data_RAM.md](./docs/0013_EtherCAT_Process_Data_RAM.md)
+* [0014_EtherCAT_Host.md](./docs/0014_EtherCAT_Host.md)
